@@ -21,7 +21,7 @@
 }
 
 .logo{
-    background-image: url("Amazon_logo.png");
+    background-image: url("https://logos-world.net/wp-content/uploads/2020/04/Amazon-Emblem.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     height: 100%;
@@ -157,7 +157,7 @@
 /*hero section*/
 
 .hero-section{
-    background-image: url("heroimage1.jpg");
+    background-image: url("https://m.media-amazon.com/images/I/713C2olsc1L._SX3000_.jpg");
     background-size: cover;
     height: 450px;
     display: flex;
